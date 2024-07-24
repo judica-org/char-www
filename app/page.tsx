@@ -89,7 +89,7 @@ export default function Home() {
                   The seed
                   phrase on the paper you received was generated, printed, and
                   deleted and then hand-delivered to you by Jeremy. It is
-                  password encrypted with "jeremy season", should you want to
+                  password encrypted with <b>{'"'}jeremy season{'"'}</b>, should you want to
                   use it in another platform (no guarantees that Jeremy or his
                   devices used to create it are not compromised, do not put
                   large value on these keys).
