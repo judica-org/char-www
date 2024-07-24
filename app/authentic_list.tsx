@@ -1,3 +1,4 @@
+"use client"
 export const authentic_list = new
         Set(
             window.location.host === "127.0.0.1:3000" ?
